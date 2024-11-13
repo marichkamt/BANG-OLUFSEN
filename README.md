@@ -10,8 +10,11 @@ This project is a single-page landing site for the BANG & OLUFSEN brand, with a 
 ## **Technologies**
 
 **HTML5**: for page structure.
+
 **CSS3**: styling with Flexbox and Grid for responsive layout.
+
 **JavaScript**: for interactive elements and animations.
+
 **BEM (Block-Element-Modifier)**: a methodology for naming CSS classes to keep structure organized and scalable.
 
 ## **Project Deployment**
