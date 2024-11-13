@@ -11,7 +11,7 @@ This project is a single-page landing site for the BANG & OLUFSEN brand, with a 
 
 **HTML5**: for page structure.
 
-**CSS3**: styling with Flexbox and Grid for responsive layout.
+**CSS3 & SCSS**: styling with SCSS for modular and maintainable styles, and Flexbox/Grid for responsive layout.
 
 **JavaScript**: for interactive elements and animations.
 
