@@ -21,6 +21,13 @@ The project is deployed on GitHub Pages and can be accessed here:
 
 - [**BANG & OLUFSEN Landing Page**](https://marichkamt.github.io/BANG-OLUFSEN/)
 
+# **🎨 Design**
+
+The design of this landing page was created in Figma. You can view the design file here:
+
+- [**Figma Design Link**](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212&node-type=frame&t=WFueyvk27Zu5K1Si-0)
+
+
 # 📋 **Requirements**
 
 To run or modify this project locally, you will need:
@@ -61,6 +68,6 @@ Email: hlushakmariia@gmail.com
 
 [Linkedin](https://www.linkedin.com/in/marichkamt/)
 
-[GitHub](github.com/marichkamt)
+[GitHub](https://github.com/marichkamt)
 
 
