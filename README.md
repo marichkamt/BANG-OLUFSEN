@@ -17,4 +17,5 @@ This project is a single-page landing site for the BANG & OLUFSEN brand, with a 
 ## **Project Deployment**
 
 The project is hosted on GitHub Pages and available at: BANG & OLUFSEN Landing Page.
-- [**BANG & OLUFSEN Landing Page**]([https://<your_account>.github.io/<repo_name>/](https://marichkamt.github.io/BANG-OLUFSEN/)
+- [**BANG & OLUFSEN Landing Page**](https://marichkamt.github.io/BANG-OLUFSEN/)
+
